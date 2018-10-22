@@ -20,13 +20,13 @@ You can view it by using [API documention of trace.moe](https://soruly.github.io
 #### javascript
 
 ```javascript
-let Whatanime = require('tracemoe-helper');
+let TraceMoe = require('tracemoe-helper');
 ```
 
 #### typescript
 
 ```typescript
-import Whatanime = require('tracemoe-helper');
+import TraceMoe = require('tracemoe-helper');
 ```
 
 ### example

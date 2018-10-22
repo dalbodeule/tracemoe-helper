@@ -1,6 +1,6 @@
 {
   "name": "tracemoe-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "trace.moe api helper",
   "main": "src/index.js",
   "author": "small_sunshine <jioo0224@naver.com>",
@@ -9,7 +9,7 @@
   "dependencies": {
     "node-base64-image": "^1.0.5",
     "querystring": "^0.2.0",
-    "request": "^2.85.0",
+    "request": "^2.88.0",
     "request-promise": "^4.2.2"
   },
   "repository": {
@@ -20,5 +20,9 @@
     "url": "https://github.com/small-sunshines/tracemoe-helper/issues"
   },
   "homepage": "https://github.com/small-sunshines/tracemoe-helper/#readme",
-  "types": "./types/tracemoe.d.ts"
+  "types": "./types/tracemoe.d.ts",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-standard": "^12.0.0"
+  }
 }

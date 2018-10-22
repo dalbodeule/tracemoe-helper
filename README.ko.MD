@@ -1,7 +1,7 @@
 # tracemoe-helper
-[![npm version](https://badge.fury.io/js/whatanimega-helper.svg)](https://badge.fury.io/js/whatanimega-helper)
+[![npm version](https://badge.fury.io/js/tracemoe-helper.svg)](https://badge.fury.io/js/tracemoe-helper)
 
-[![NPM](https://nodei.co/npm/whatanimega-helper.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/whatanimega-helper/)
+[![NPM](https://nodei.co/npm/tracemoe-helper.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/tracemoe-helper/)
 
 ### 완성 기능 목록
 
@@ -20,13 +20,13 @@
 #### javascript
 
 ```javascript
-let Whatanime = require('tracemoe-helper');
+let TraceMoe = require('tracemoe-helper');
 ```
 
 #### typescript
 
 ```typescript
-import Whatanime = require('tracemoe-helper');
+import TraceMoe = require('tracemoe-helper');
 ```
 
 ### 예시
