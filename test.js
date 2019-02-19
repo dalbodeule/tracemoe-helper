@@ -12,6 +12,6 @@ const token = 'your token';
     let video = await api.previewVideo(data.docs[0].anilist_id, data.docs[0].filename, data.docs[0].at, data.docs[0].tokenthumb)
     console.log(video)
   } catch (e) {
-    console.error(e)
+    console.error(e.message)
   }
 })()

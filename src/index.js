@@ -49,7 +49,7 @@ class TraceMoe {
         } else {
           const data = await this.imgEncode(image)
 
-          const formData = querystring.stringify({image: data})
+          const formData = querystring.stringify({ image: data })
 
           let response = await request({
             uri: this.uri.search,
